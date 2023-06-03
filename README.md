@@ -1,3 +1,4 @@
+![]("https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG")
 # 💫 About Me:
 🔭 I’m currently working on Trading App (Data Structure Assignment)<br><br>🌱 I’m currently pursuing Computer Science(Artificial Intelligence) in [University Malaya](https://www.um.edu.my/)<br><br>👨‍💻 All of my projects are available at https://github.com/HangWeHong<br><br>💬 Ask me about Java, Visual Basic, C#<br><br>📫 How to reach me hangwehong0543@gmail.com<br><br>⚡ Fun fact Love is What Makes the World Go Round!
 
@@ -16,14 +17,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HangWeHong&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HangWeHong&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HangWeHong&icon=6&color=10)](https://visitcount.itsvg.in)
