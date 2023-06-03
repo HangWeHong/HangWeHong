@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG")
+![](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots)
 # 💫 About Me:
 🔭 I’m currently working on Trading App (Data Structure Assignment)<br><br>🌱 I’m currently pursuing Computer Science(Artificial Intelligence) in [University Malaya](https://www.um.edu.my/)<br><br>👨‍💻 All of my projects are available at https://github.com/HangWeHong<br><br>💬 Ask me about Java, Visual Basic, C#<br><br>📫 How to reach me hangwehong0543@gmail.com<br><br>⚡ Fun fact Love is What Makes the World Go Round!
 
